@@ -8,7 +8,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-1M%20rows-critical)
 
 <p align="center">
-  <img src="images/thumbnail.jpg" width="100%">
+  <img src="images/thumbnail.png" width="100%">
 </p>
 
 **$2.8+ trillion** in suspicious funds traced across 190+ countries using real-world scale synthetic data.
@@ -42,7 +42,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourname/Money-Laundering-Detection-1M.git
+git clone https://github.com/Checkpromax/Money-Laundering-Detection-1M.git
 cd Money-Laundering-Detection-1M
 pip install -r requirements.txt
 jupyter notebook notebooks/01_Money_Laundering_Analysis.ipynb
